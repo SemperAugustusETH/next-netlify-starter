@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="CreatureToadz new website is under construction!" />
+        <Header title="CreatureToadz new website is under construction 🐸!" />
         <p className="description">
-          Come back soon! <code>pages/index.js</code>
+          Come back soon! Croak!
         </p>
       </main>
 
