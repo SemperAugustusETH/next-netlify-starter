@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="CreatureToadz new website is under construction!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Come back soon! <code>pages/index.js</code>
         </p>
       </main>
 
